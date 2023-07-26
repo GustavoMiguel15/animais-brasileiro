@@ -28,6 +28,7 @@ button {
   height: 100%;
   background-size: cover;
   background-repeat: no-repeat;
+  background-image:url(fauna-brasileira) ;
 }
 
 .contact {
